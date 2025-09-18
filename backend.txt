@@ -1,0 +1,2 @@
+backend developer builds and maintains the server-side of web applications,
+ focusing on the underlying infrastructure that users don't directly see
