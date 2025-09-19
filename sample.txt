@@ -1,0 +1,12 @@
+Python is a high-level, interpreted, object-oriented programming language known for its simplicity and readability.
+Key features:
+
+Easy syntax (close to natural language).
+
+Cross-platform (runs on Windows, macOS, Linux).
+
+Rich libraries & frameworks (NumPy, Django, Flask, TensorFlow, etc.).
+
+Multiple paradigms (supports OOP, functional, procedural).
+
+Huge community support.
